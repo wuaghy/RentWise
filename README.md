@@ -1,3 +1,4 @@
+[![.NET Build & Test + Docker Login](https://github.com/wuaghy/RentWise/actions/workflows/dotnet.yml/badge.svg)](https://github.com/wuaghy/RentWise/actions/workflows/dotnet.yml)
 # 🚗 RentWise – Clean Architecture .NET 8 Project
 
 **RentWise** là một nền tảng thuê xe tự lái được xây dựng bằng **.NET 8**, áp dụng các nguyên tắc **Clean Architecture, CQRS, Dependency Injection, và Unit Testing (TDD)**.  
